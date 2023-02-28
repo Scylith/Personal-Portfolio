@@ -1,7 +1,4 @@
-## To-Do App
-A simple to-do app where users can manage a list of tasks
+## Personal Portfolio Page
+A simple personal portfolio apge
 
-
-## About the App
-This app is a simple to-do app in which users can add/remove tasks and toggle their status as complete or incomplete.
 
